@@ -1,0 +1,20 @@
+{
+  "name": "school_guard_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioblazeka/school_guard_frontend.git"
+  },
+  "author": "m_ario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioblazeka/school_guard_frontend/issues"
+  },
+  "homepage": "https://github.com/marioblazeka/school_guard_frontend#readme",
+  "keywords": []
+}
