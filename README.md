@@ -37,6 +37,27 @@ ona je odgovor na izazov vremena u kojem sigurnost više ne smije biti naknadna 
 <details>
 <summary>▶ Klikni ovdje za prikaz skrivenog teksta</summary>
 Branch Master se osvježava s lokalnog diska na mom laptopu
-</details>
 
+
+#fipugram
+
+Project setup
+```
+npm install
+```
+
+Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+Compiles and minifies for production
+```
+npm run build
+```
+
+Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+</details>
 
