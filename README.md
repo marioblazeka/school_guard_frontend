@@ -20,11 +20,9 @@ ona je odgovor na izazov vremena u kojem sigurnost više ne smije biti naknadna 
 
 ## <[link na YouTube](https://)>FIPU - SchoolGuardianPro</a>
 
-![Screenshot Figma design](https://drive.google.com/file/d/1Nmz_HCfJNoHbgNJdUZx-OXe0mk-o-AtA/view?usp=drive_link)
+[Screenshot Figma design](https://drive.google.com/file/d/1Nmz_HCfJNoHbgNJdUZx-OXe0mk-o-AtA/view?usp=drive_link)
 
-![Ssreenshots](url_slike.jpg)
-
-##[Projektna dokumentacija School Guardian Pro](https://docs.google.com/document/d/12Es3RdIFKWP3sBHOhXs2iFaIhqs6uD3pxfHWD6VZlu4/edit?usp=drive_link)
+[Projektna dokumentacija School Guardian Pro](https://docs.google.com/document/d/12Es3RdIFKWP3sBHOhXs2iFaIhqs6uD3pxfHWD6VZlu4/edit?usp=drive_link)
 
 ## Fakultet informatike u Puli ([link na web](https://fipu.unipu.hr/))
 ## Kolegij: Programsko inženjerstvo ([link na web](https://ntankovic.unipu.hr/pi))
