@@ -3,7 +3,10 @@
 # SchoolGuardianPro
 
 ### Mario Blažeka 0016122291 (izvanredni/online, cijeloživotno učenje)
-### Pregled neobavljenih predmeta na studiju Cjeloživotno učenje obrazovni program Program razlikovnih ispita
+
+### Pregled neobavljenih predmeta na studiju Cjeloživotno učenje obrazovni program 
+### Program razlikovnih ispita
+
 ### Fakultet informatike Programsko inženjerstvo (199741) (PIFIPU)
 
 
